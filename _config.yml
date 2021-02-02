@@ -24,10 +24,11 @@ description:
 email: arnold.wpg@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I'm a front-end developer, businessman, and student from the Philippines. Writing and learning, one day at a time.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "arnoldrubi.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "http://arnoldrubi.com/" # the subpath of your site, e.g. / http://arnoldrubi.com/
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: boygie17
 github_username:  arnoldrubi
+facebook_username:  boygie17
 
 # Build settings
 theme: minima

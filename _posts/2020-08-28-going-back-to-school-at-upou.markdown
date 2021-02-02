@@ -35,9 +35,11 @@ But, as I look back again, those hardships have prepared me to my destination an
 
 I went back to school even when I am 34 because I want to give a good life to my wife and child. My current job has provided more than we need, yet, I am still hopeful for other things ahead of us so I’m getting ready. To my son, who just turned 1 this 2018, I wish I can give him a life different from what I had growing up. I hope he doesn’t have to miss meals, get bullied at school because his uniform were old and hands-me-down, or even brave the scorching heat while looking for a job with nothing but cold water fetched at SM Megamall’s food court in his stomach. I want him to take a different path and I’ll be there to guide him.
 
+*Jumping to 2020, my son AJ is 2 years old and my wife and I are expecting another child next year.*
+
 ![My wife and kid](/assets/post-images/blogpost2-featured-image4.jpg){: .postimg-center}
 
-*Jumping to 2020, my son AJ is 2 years old and my wife and I are expecting another child next year.*
+
 
 Finally, I realized that growth is continuous. That we will never arrive to the point that when we will no longer grow. I took my chances at UP so I can further improve in my profession as a web designer and as a manager. Studying here for almost two months not only increased my knowledge in design and multi-media, but has also reignited my love for my country and taught me to not only think for the future of my son, but to also think of how I can contribute to this country that we all call our motherland.
 
