@@ -7,7 +7,9 @@ categories: blog, studies, UP
 
 *This was my first project for MMS100. I am reposting it here in this site for after 2 years of being stuck in my Google Site project that I created for the said subject*
 
-![Scribbling on my notebook](/assets/post-images/featured-image2.jpg){: .postimg-center}
+<div class="post-page-image" markdown="1">
+![Scribbling on my notebook](/assets/post-images/featured-image2.jpg)
+</div>{: .postimg-center}
 
 So here’s a question I wrote to my notebook before I started writing this blog entry, why go back to school? At 34 someone should have a stable job and is growing his/her own family, those things will take a lot of that person’s time and suck all of his/her energy. That person should be, ideally, at the top of his career and going back to school would never be in his mind (well, unless he/she is an educator).
 
@@ -21,13 +23,18 @@ With no college diploma, my opportunities are limited. I am stuck with these 6-m
 
 But, getting that vocational diploma was a sure grind. With little support, I cleaned the quarters of my teacher, did laundry for my roommate in exchange for detergent so I can wash my clothes, volunteered to work at our school’s media office for free hours in front of the PC learning html and more Photoshop, and for free coffee of course. It felt like heaven when I graduated, the 2-year diploma that I held in my hand shone like gold. 
 
-![My College Diploma from a 2-Year Vocational Course](/assets/post-images/blogpost2-image1.jpg){: .postimg-center}
+<div class="post-page-image" markdown="1">
+![My College Diploma from a 2-Year Vocational Course](/assets/post-images/blogpost2-image1.jpg)
+</div>{: .postimg-center}
+
 
 I was 24 when I entered college, 27 when I graduated and had my first office job as a web designer. Some of my skills entering this industry were self-taught, although I had the blessing of being trained by my seniors at work (I am older than them, but they are more experienced so I’ll call them that). 
 
 So, again, why go back to school when I’m already 34? This is something that I really want to do for my family and career. I am aware that getting a formal training about design is the next step to further my profession as a web designer. The problem with vocational schools is that they will teach you to master specific applications and technologies without covering essential theories and core concepts. They are more concern with the “hows” than the “whys” and “ whats”. It’s understandable since these schools want their students to be job-ready as soon as they graduate. 
 
-![The UPOU Banner Inside the DICT Building in Quezon City](/assets/post-images/blogpost2-featured-image3.jpg){: .postimg-center}
+<div class="post-page-image" markdown="1">
+![The UPOU Banner Inside the DICT Building in Quezon City](/assets/post-images/blogpost2-featured-image3.jpg)
+</div>{: .postimg-center}
 
 I wish to finally get a bachelor’s degree. As I was writing on my notebook, I was asking myself if the hurdles I had here at UP are worth it. I believe that this is God’s grace, again, that He let me pass the exam, and finally experience studying at a prestigious university even at 34. But, I am also thankful to my first alma mater, whom some of its staffs have treated me like family. They helped me to hope again and work harder to pursue my goal. I will not be here at UP without them. My race here at OU is also for them. I’ll wear that sablay someday and hang my UP diploma on our wall. I felt that my poverty has deprived me of the opportunity of accomplishing these feat earlier in my life. 
 
@@ -35,9 +42,12 @@ But, as I look back again, those hardships have prepared me to my destination an
 
 I went back to school even when I am 34 because I want to give a good life to my wife and child. My current job has provided more than we need, yet, I am still hopeful for other things ahead of us so I’m getting ready. To my son, who just turned 1 this 2018, I wish I can give him a life different from what I had growing up. I hope he doesn’t have to miss meals, get bullied at school because his uniform were old and hands-me-down, or even brave the scorching heat while looking for a job with nothing but cold water fetched at SM Megamall’s food court in his stomach. I want him to take a different path and I’ll be there to guide him.
 
-![My wife and kid](/assets/post-images/blogpost2-featured-image4.jpg){: .postimg-center}
-
 *Jumping to 2020, my son AJ is 2 years old and my wife and I are expecting another child next year.*
+
+<div class="post-page-image" markdown="1">
+![My wife and kid](/assets/post-images/blogpost2-featured-image4.jpg)
+</div>{: .postimg-center}
+
 
 Finally, I realized that growth is continuous. That we will never arrive to the point that when we will no longer grow. I took my chances at UP so I can further improve in my profession as a web designer and as a manager. Studying here for almost two months not only increased my knowledge in design and multi-media, but has also reignited my love for my country and taught me to not only think for the future of my son, but to also think of how I can contribute to this country that we all call our motherland.
 
