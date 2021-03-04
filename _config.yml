@@ -23,7 +23,7 @@ tagline: Front-End Developer/Manager/Scholar
 email: arnold.wpg@gmail.com
 description: "I'm a front-end developer, businessman, and student from the Philippines. Writing and learning, one day at a time."
 baseurl: "" # the subpath of your site, e.g. / http://arnoldrubi.com/
-url: "arnoldrubi.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://arnoldrubi.com/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: boygie17
 github_username:  arnoldrubi
 facebook_username:  boygie17
