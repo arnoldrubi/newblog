@@ -43,13 +43,7 @@ But, as I look back again, those hardships have prepared me to my destination an
 I went back to school even when I am 34 because I want to give a good life to my wife and child. My current job has provided more than we need, yet, I am still hopeful for other things ahead of us so I’m getting ready. To my son, who just turned 1 this 2018, I wish I can give him a life different from what I had growing up. I hope he doesn’t have to miss meals, get bullied at school because his uniform were old and hands-me-down, or even brave the scorching heat while looking for a job with nothing but cold water fetched at SM Megamall’s food court in his stomach. I want him to take a different path and I’ll be there to guide him.
 
 *Jumping to 2020, my son AJ is 2 years old and my wife and I are expecting another child next year.*
-<<<<<<< HEAD
-=======
 
-![My wife and kid](/assets/post-images/blogpost2-featured-image4.jpg){: .postimg-center}
-
-
->>>>>>> bf1d74ecb754527fd42a8f03129c01e4154c2a96
 
 <div class="post-page-image" markdown="1">
 ![My wife and kid](/assets/post-images/blogpost2-featured-image4.jpg)
