@@ -5,7 +5,7 @@
 layout: home
 ---
 
-  <div class="full-width" id="hero-container">
+  <div id="hero-container">
     <div id="hero-home">
       <div id="hero-img">
         <img src="/assets/home-hero-img.jpg" alt="My only decent solo picture right now">
