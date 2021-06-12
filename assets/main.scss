@@ -2,11 +2,17 @@
 ---
 @import "{{ site.theme }}";
 
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;400;600&display=swap');
 /*major classes overide*/
 .wrapper {
-	max-width: calc(900px - (30px * 2));
+	max-width: calc(1020px - (30px * 2));
+}
+a{
+	color: #1076bc;
+}
+a:hover {
+	color: #2a7ae2;
 }
 /**/
 .postimg-center {
@@ -17,12 +23,12 @@
 }
 
 h1, h2, h3, h4, h5{
-	font-family: 'Roboto Mono', monospace;
-	text-transform: uppercase;
-
+	font-family: 'Noto Sans', sans-serif;
+	font-weight: 700;
 }
 html, p, a{
-	font-family: 'Roboto Slab', serif;	
+	font-family: 'Noto Sans', sans-serif;
+	font-weight: 400;
 }
 .post-title, .post-header {
 	text-align: center;
@@ -31,6 +37,10 @@ html, p, a{
 .site-header{
 	border: none;
 	padding: 2rem 0 1rem 0;
+}
+img#site-logo {
+    max-width: 72px;
+    margin: 0 .5em 0 0;
 }
 .site-nav {
     float: none;
@@ -61,11 +71,15 @@ ul.social-media-list{
 	width: 32px;
 	height: 32px;
 	padding-right: 15px;
+	fill: #283891;
+}
+.svg-icon:hover{
+	fill: #2a7ae2;
 }
 /**/
 /*for hero section home*/
-#hero-container.full-width{
-	border-bottom: 5px solid;
+#hero-container{
+	border-bottom: 1px dashed;
 }
 div#hero-home {
     display: block;
@@ -100,7 +114,15 @@ div#hero-home {
   margin-left: -50vw;
   margin-right: -50vw;
 }
-
+/*footer*/
+.footer-heading {
+  text-align: center;
+}
+/*inner pages*/
+.post-content.e-content p {
+    line-height: 1.9;
+}
+/**/
 @media (min-width: 520px) {
 	div#hero-home {
 	    display: grid;
