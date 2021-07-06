@@ -12,9 +12,8 @@ layout: home
       </div>
       <div id="hero-content">
         <h2>Hey [I'm] Arnold</h2>
-        <p>I wear many hats (although I'm wearing just one on this picture).</p>
-        <p>I'm a generalist, but I'm working to specialize in front-end development. I manage my own company and is also a student and designer.</p>
+        <h4>{{ site.description | escape }}</h4>
+        <p>{{ site.hero-content | escape }}</p>
       </div>
     </div>
   </div>
-  <a href=""><i class="fab fa-facebook-square"></i></a>

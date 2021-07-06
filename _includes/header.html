@@ -7,33 +7,37 @@
 
     {%- if page_paths -%}
       <nav class="site-nav">
-        <div class="flex-item" id="site-title-div">
+<!--         <div class="flex-item" id="site-title-div">
            <a class="site-title" rel="author" href="{{ "/" | relative_url }}"><img id="site-logo" src="{{ site.baseurl }}/assets/logo.png" />{{ site.title | escape }}</a>
            
-        </div>
+        </div> -->
         <div class="flex-item" id="pages-links">
-          {%- for path in page_paths -%}
-            {%- assign my_page = site.pages | where: "path", path | first -%}
-            {%- if my_page.title -%}
-            <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
-            {%- endif -%}
-          {%- endfor -%}
           <input type="checkbox" id="nav-trigger" class="nav-trigger" />
-          <label for="nav-trigger">
+          <label class="toggle" for="nav-trigger">
             <span class="menu-icon">
-              <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <svg class="menu" viewBox="0 0 18 15" width="18px" height="15px">
                 <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+              </svg>
+              <svg class="close" viewBox="0 0 384 512" width="18px" height="15px" title="times">
+                <path d="M242.72 256l100.07-100.07c12.28-12.28 12.28-32.19 0-44.48l-22.24-22.24c-12.28-12.28-32.19-12.28-44.48 0L176 189.28 75.93 89.21c-12.28-12.28-32.19-12.28-44.48 0L9.21 111.45c-12.28 12.28-12.28 32.19 0 44.48L109.28 256 9.21 356.07c-12.28 12.28-12.28 32.19 0 44.48l22.24 22.24c12.28 12.28 32.2 12.28 44.48 0L176 322.72l100.07 100.07c12.28 12.28 32.2 12.28 44.48 0l22.24-22.24c12.28-12.28 12.28-32.19 0-44.48L242.72 256z" />
               </svg>
             </span>
           </label>
+          <ul class="menu-list">
+            <li><a class="site-title" rel="author" href="{{ "/" | relative_url }}"><img id="site-logo" src="{{ site.baseurl }}/assets/logo.png" /><span class="sit-title">{{ site.title | escape }}</span></a></li>
+          {%- for path in page_paths -%}
+            {%- assign my_page = site.pages | where: "path", path | first -%}
+            {%- if my_page.title -%}
+            <li><a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a></li>
+            {%- endif -%}
+          {%- endfor -%}
+          {%- include social.html -%}
+          </ul>
         </div>
-        <div class="flex-item" id="social-list">
-        <!-- <div class="trigger"> -->
-        {%- include social.html -%}
       </nav>
-      <div>
+      
         
-      </div>
+
     {%- endif -%}
   </div>
 </header>
