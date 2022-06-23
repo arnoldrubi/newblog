@@ -24,7 +24,7 @@ email: arnold.wpg@gmail.com
 hero-content: "I wear many hats (although I'm wearing one on this picture). I'm a designer, but I'm working to become a full-stack dev. I manage my own company and is also a student at UPOU."
 description: "Designer/Full Stack Dev Wannabee"
 baseurl: "" # the subpath of your site, e.g. / http://arnoldrubi.com/
-url: "http://arnoldrubi.com/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: boygie17
 github_username:  arnoldrubi
 facebook_username:  boygie17
